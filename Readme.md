@@ -22,7 +22,7 @@ A JavaScript project which generates random colours and display it on the box ab
 JAVASCRIPT, HTML, CSS
 
 ## Demo | Netlify
-https://randomjokeswebapp.netlify.app/
+https://colorchangerapp.netlify.app/
 
 
 ## Screenshots
