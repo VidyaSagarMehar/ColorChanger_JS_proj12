@@ -2,7 +2,7 @@
 # Hi, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 👋
 
 
-## 🚀 I'm a front-end developer...
+## 🚀 I'm a Full-Stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Project Title - Color Changer web app
@@ -26,9 +26,9 @@ https://colorchangerapp.netlify.app/
 
 
 ## Screenshots
+![ColorChanger](https://user-images.githubusercontent.com/92782806/211470790-7c4fc295-8cc6-47ce-90ee-5b30d9bc0267.png)
+![Screenshot_20221108_122740](https://user-images.githubusercontent.com/92782806/211470794-acd7a488-3ccf-43fb-acc0-3bc281b19893.png)
 
-![](./Image/ColorChanger.png)
-![](./Image/Screenshot_20221108_122740.png)
 
 
 
